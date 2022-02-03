@@ -34,3 +34,7 @@ XloopToken.pair address: 0xd5207955E6dFe3f847334706CE5EcDcc082B3Ac0
 #setFactory xloopToken address
 https://bscscan.com/tx/0xdf939c899665579472b90bf90810211e4511944b0a9dd1ce241c3a10cec6f3fc
 XloopFactory.xloop address: 0xfAC07a3881B9c77966d1CEC2437B5AFeF0e61393
+
+----- test-1 (TEST1) -----
+https://testnet.bscscan.com/tx/0x77d2a761b597e4b8f4a90746a42b97a14d6fc61911572e7776377d5d32392f29
+https://testnet.bscscan.com/tx/0xa2eaeac314dc722d824e460780726b7d5ecb5a5542fd50457ba17c277f4eb15f
