@@ -1,0 +1,36 @@
+bsc-test-net
+
+#deploy factory
+https://testnet.bscscan.com/tx/0x71820686a687b35c5f7293dea9bac585caf8b83561b3df4c7a8ae56228220f1d
+xloopFactory address: 0x41Cb4F0bC1Fee7b56C8b7C32fC8cF184b183AA05
+XloopFactory.owner address: 0x6D9951B1865c4aBB92AB24378efd6349dd3e0800
+XloopFactory.xloop address: 0x0C0c2532889406427CEc8b7c57345fdF3423A197
+XloopFactory.xloopLKTemp address: 0xE731CC5b84b03e83D70CD3F456dA700C3771B0F4
+XloopFactory.xloopPairTemp address: 0x9Ecd3300D8015A37C84eA00E33F0E7dC5D3A5BaF
+
+#deploy xloopToken
+https://testnet.bscscan.com/tx/0x86f76b26dc55dfbbee2dcf2bb49eb887b3d5351068a975f782e589d32655e8ef
+XLOOPTOKEN AT 0x0C0c2532889406427CEc8b7c57345fdF3423A197
+XloopToken.pair address: 0x41Cb4F0bC1Fee7b56C8b7C32fC8cF184b183AA05
+
+#setFactory xloopToken address
+https://testnet.bscscan.com/tx/0xf4bdf828b7d5df0d80cd3150e55678bd3455932c9c1304370637d81774f8606c
+XloopFactory.xloop address: 0x0C0c2532889406427CEc8b7c57345fdF3423A197
+
+-------------------------------------------------------------------------------------------------
+bsc-main-net
+https://bscscan.com/tx/0xacb66cf094eb1220ce43c34666c5b8f717cb4f838d7aae9b9c2df1651020e60b
+xloopFactory address: 0xd5207955E6dFe3f847334706CE5EcDcc082B3Ac0
+XloopFactory.owner address: 0x63f221bF19DccFD3f7Bf505F4bc7515Be1537489
+XloopFactory.xloop address: 0xfAC07a3881B9c77966d1CEC2437B5AFeF0e61393
+XloopFactory.xloopLKTemp address: 0xF2D819ba7cc2F84074F36AA7A9C3E181f8a06533
+XloopFactory.xloopPairTemp address: 0x78c0bF20A69dF65d791c7A4D55E3dEeD29d615Bc
+
+#deploy xloopToken
+https://bscscan.com/tx/0xe9a920f86b18a5d60ffc96d891afcbca99b5b5aa1269739398b9128a68af1d5a
+XLOOPTOKEN AT 0xfAC07a3881B9c77966d1CEC2437B5AFeF0e61393
+XloopToken.pair address: 0xd5207955E6dFe3f847334706CE5EcDcc082B3Ac0
+
+#setFactory xloopToken address
+https://bscscan.com/tx/0xdf939c899665579472b90bf90810211e4511944b0a9dd1ce241c3a10cec6f3fc
+XloopFactory.xloop address: 0xfAC07a3881B9c77966d1CEC2437B5AFeF0e61393
