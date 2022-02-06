@@ -38,3 +38,7 @@ XloopFactory.xloop address: 0xfAC07a3881B9c77966d1CEC2437B5AFeF0e61393
 ----- test-1 (TEST1) -----
 https://testnet.bscscan.com/tx/0x77d2a761b597e4b8f4a90746a42b97a14d6fc61911572e7776377d5d32392f29
 https://testnet.bscscan.com/tx/0xa2eaeac314dc722d824e460780726b7d5ecb5a5542fd50457ba17c277f4eb15f
+
+--- prod (XGATE-USDT) -----
+https://bscscan.com/tx/0x472e860f0fa69f02960becaf3a93c45ec226a79ec21e817a13aa809cd602af26
+https://bscscan.com/tx/0x1c3cf5609f66865c72e274238e444dbf1afa2753166465a4822327f0130a28ed
